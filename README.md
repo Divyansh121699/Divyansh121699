@@ -19,7 +19,7 @@ I am a **Cybersecurity Enthusiast** with a passion for **threat detection, incid
 | Incident Response & Threat Hunting           | <a href="https://github.com/Divyansh121699/SOCAutomation">SOC Automation Lab</a> |
 | Network Traffic Analysis                      | <a href="https://github.com/Divyansh121699/ActiveDirectory-HomeLab">Active Directory Home Lab</a> |
 | Log Analysis and Security Monitoring          | <a href="https://github.com/Divyansh121699/ElasticSIEMLab">Elastic SIEM Lab</a> |
-| IoT-Based Healthcare Security                 | <a href="https://github.com/Divyansh121699/IoT-Healthcare-Security">IoT-Based Healthcare Security Project</a> |
+| IoT-Based Healthcare Security                 | <a href="https://github.com/Divyansh121699/IoT-Based-Healthcare-Security-Project">IoT-Based Healthcare Security Project</a> |
 
 ## Tools
 
@@ -52,4 +52,4 @@ I am a **Cybersecurity Enthusiast** with a passion for **threat detection, incid
 - <a href="https://github.com/Divyansh121699/ActiveDirectory-HomeLab">Active Directory Home Lab Project</a>
 - <a href="https://github.com/Divyansh121699/SOCAutomation">SOC Automation Lab</a>
 - <a href="https://github.com/Divyansh121699/ElasticSIEMLab">Elastic SIEM Lab - Home Lab Setup</a>
-- <a href="https://github.com/Divyansh121699/IoT-Healthcare-Security">IoT-Based Healthcare Security Project</a>
+- <a href="https://github.com/Divyansh121699/IoT-Based-Healthcare-Security-Project">IoT-Based Healthcare Security Project</a>
