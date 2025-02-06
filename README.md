@@ -14,11 +14,11 @@ I am a **Cybersecurity Enthusiast** with a passion for **threat detection, incid
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Security                     | <a href="https://github.com/Divyansh121699/ActiveDirectory-HomeLab">Active Directory Home Lab</a> |
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Divyansh121699/ElasticSIEMLab">Elastic SIEM Lab</a> |
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Divyansh121699/SOCAutomation">SOC Automation Lab</a> |
-| Incident Response & Threat Hunting           | <a href="https://github.com/Divyansh121699/SOCAutomation">SOC Automation Lab</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Divyansh121699/A-Simple-Elastic-SIEM-Lab">Elastic SIEM Lab</a> |
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Divyansh121699/SOC-Automation-Lab">SOC Automation Lab</a> |
+| Incident Response & Threat Hunting           | <a href="https://github.com/Divyansh121699/SOC-Automation-Lab">SOC Automation Lab</a> |
 | Network Traffic Analysis                      | <a href="https://github.com/Divyansh121699/ActiveDirectory-HomeLab">Active Directory Home Lab</a> |
-| Log Analysis and Security Monitoring          | <a href="https://github.com/Divyansh121699/ElasticSIEMLab">Elastic SIEM Lab</a> |
+| Log Analysis and Security Monitoring          | <a href="https://github.com/Divyansh121699/A-Simple-Elastic-SIEM-Lab">Elastic SIEM Lab</a> |
 | IoT-Based Healthcare Security                 | <a href="https://github.com/Divyansh121699/IoT-Based-Healthcare-Security-Project">IoT-Based Healthcare Security Project</a> |
 
 ## Tools
@@ -50,6 +50,6 @@ I am a **Cybersecurity Enthusiast** with a passion for **threat detection, incid
 
 ## Projects
 - <a href="https://github.com/Divyansh121699/ActiveDirectory-HomeLab">Active Directory Home Lab Project</a>
-- <a href="https://github.com/Divyansh121699/SOCAutomation">SOC Automation Lab</a>
-- <a href="https://github.com/Divyansh121699/ElasticSIEMLab">Elastic SIEM Lab - Home Lab Setup</a>
+- <a href="https://github.com/Divyansh121699/SOC-Automation-Lab">SOC Automation Lab</a>
+- <a href="https://github.com/Divyansh121699/A-Simple-Elastic-SIEM-Lab">Elastic SIEM Lab - Home Lab Setup</a>
 - <a href="https://github.com/Divyansh121699/IoT-Based-Healthcare-Security-Project">IoT-Based Healthcare Security Project</a>
